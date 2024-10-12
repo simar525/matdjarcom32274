@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "https://matdjar.com",       "destination": "https://eas.matdjar.com/",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://matdjar.com/$1"
- }
+    }
   ]
 }
+    
