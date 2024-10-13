@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "https://matdjar.com",       "destination": "https://eas.matdjar.com/",       "permanent": true     }
+  "redirects": [{"source": "https://matdjar.com",       "destination": "https://eas.matdjar.com/",       "permanent": true     },{"source": "/",       "destination": "eas.matdjar.com",       "permanent": true     }
 ],
   "rewrites": [
     {
